@@ -55,4 +55,6 @@ Through this project, I gained hands-on experience in:
 
 Cleaning and transforming real-world datasets Writing SQL queries to solve business problems Integrating Python with PostgreSQL Building interactive Power BI dashboards Converting raw data into actionable business insights Future Improvements Build predictive models for customer purchase behavior. Add customer lifetime value (CLV) analysis. Develop sales forecasting dashboards. Automate the ETL pipeline using scheduled workflows. Deploy the dashboard using Power BI Service. Why this project?
 
-This project demonstrates an end-to-end data analytics workflow—from data cleaning and database management to SQL analysis and interactive dashboard creation. It highlights practical skills commonly required for Data Analyst, Business Analyst, and BI Analyst roles, making it a strong portfolio project for recruiters.
+This project demonstrates an end-to-end data analytics workflow—from data cleaning and database management to SQL analysis and interactive dashboard creation. It highlights practical skills commonly required for Data Analyst, Business Analyst, and BI Analyst roles, making it a strong portfolio project for recruiters.<img width="1344" height="736" alt="Snapshot Of Dashboard" src="https://github.com/user-attachments/assets/b5424a0b-158a-486e-a38d-009561d67c8c" />
+
+
